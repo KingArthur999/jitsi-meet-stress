@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+venv/
+.venv/
+
+# Logs
+*.log
+
+# Docker
+*.tar
+
+# OS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# Selenium / Chrome
+chromedriver
+chrome-profile/
+
