@@ -21,8 +21,7 @@ headless Chrome + Selenium.
 ```bash
 docker build -t jitsi-meet-stress .
 
-
-
+## Docker Run
 docker run --rm \
   --shm-size=4g \
   jitsi-meet-stress \
